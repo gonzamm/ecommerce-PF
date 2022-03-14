@@ -6,8 +6,7 @@
   "scripts": {
     "start": "node index.js",
     "app": "node index.js",
-    "nodemonStart": "nodemon index.js",
-    "test": "mocha src/test/apirest.test.js"
+    "nodemonStart": "nodemon index.js"
   },
   "keywords": [],
   "author": "Gonzalo Moure",
