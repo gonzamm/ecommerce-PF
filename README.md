@@ -41,3 +41,5 @@ https://documenter.getpostman.com/view/17626076/UVsJxSwD#854444aa-2164-4a62-8a7a
 - En la documentacion podran ver ejemplos de los endpoints
 
 ## Deploy
+https://ecommerce-pf.herokuapp.com/
+- Un front bien sencillo para probar como funciona la app, (Incluye el chat con el administrador y un chat general implementado mediante websocket)
