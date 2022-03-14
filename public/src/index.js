@@ -278,7 +278,7 @@ function cashout(evt){
     fetch(url, request)
     .then(function() {
         alert("GRACIAS POR SU COMPRA VA A RECIBIR UN MENSAJE DE CONFIRMACION");
-        window.location.href = "index.html"
+        window.location.href = "productos.html"
     });
 }
 
