@@ -34,5 +34,5 @@ npm start
 - TWILIO_TOKEN = 'token de twilio'
 
 ## Documentacion
-https://documenter.getpostman.com/view/17626076/UVkqtFXV 
+https://documenter.getpostman.com/view/17626076/UVsJxSwD#854444aa-2164-4a62-8a7a-48f822ecd6cd
 - En la documentacion podran ver ejemplos de los endpoints
